@@ -1,5 +1,8 @@
 # openOCRcorrect_withNewFeatures
-# OpenOCRCorrect
+
+### kindly add the data folder from your project location as it was too big to upload here. thankyou
+
+## OpenOCRCorrect
 A framework for assisting human while correcting the OCR errors in documents, mostly dedicated to Indian Languages.
 Tested on Sanskrit, Hindi, Marathi and English.
 
@@ -52,6 +55,9 @@ Execute file qpadfinal in folder "FrameWorkCode"
 1. bold unbold feature
 2. subscript superscript feature.
 for reference go to https://github.com/FardinAnsari/TextEditor
+
+# chanllenges
+1. To understand the working of OpenOCRcorrect
 
 # How to use the Framework
 

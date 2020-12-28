@@ -1,6 +1,6 @@
 # openOCRcorrect_withNewFeatures
 
-### kindly add the data folder from your project location as it was too big to upload here. thankyou
+### kindly add the data folder from the project location in your computer (if you have it) or email me so that I can send it to you as it was too big to upload here. thankyou
 
 ## OpenOCRCorrect
 A framework for assisting human while correcting the OCR errors in documents, mostly dedicated to Indian Languages.
